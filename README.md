@@ -1,4 +1,4 @@
-👋 Hi, I’m Steve Yeo.
+👋 Hi~
 
 <!---
 steveyeoks/steveyeoks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
